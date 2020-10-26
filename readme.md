@@ -1,0 +1,2 @@
+<h1>Introduction to Bayesian Statistics</h1>
+<p>This folder contains the notebook code I used (and the slides) for the lecture on Introduction to Bayesian Inference I gave to the fellows of the 2020c Data Science East program.</p>   
